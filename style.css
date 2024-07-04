@@ -116,8 +116,8 @@ div.親1 {
    div.孫1 {
   border: 3px solid blue;
   background-color:rgba(0,0,250,0.2);
-  width: 47.5%;
-  height: 95%; 
+  width: 95%;
+  height: 47.5%; 
   box-sizing:border-box;
   flex-basis: 47.5%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
 }
@@ -125,8 +125,8 @@ div.親1 {
 div.孫2 {
   border: 3px solid green;
   background-color:rgba(0,250,0,0.2);
-   width: 47.5%;
-  height: 95%; 
+   width: 95%;
+  height: 47.5%; 
   box-sizing:border-box;
   flex-basis: 47.5%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
 } 
