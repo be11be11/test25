@@ -7,7 +7,8 @@ div.親1 {
   background-color:rgba(0,250,200,0.2);
   display: flex;
   flex-direction: column;
-  align-items: center; 
+  align-items: center;
+  justify-content: center;
   width: 99.9%;
   height: 200vh;　
 }
@@ -18,7 +19,7 @@ div.親1 {
   display: flex;
   flex-wrap: wrap;  
   width: 90%;
-  height: 70vh; 
+  height: 85vh; 
 } 
 
  div.子2 {
@@ -27,13 +28,13 @@ div.親1 {
   display: flex;
   flex-wrap: wrap;  
   width: 90%;
-  height: 70vh; 
+  height: 85vh; 
 }   
  
 div.ヘア1 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%; 
   box-sizing:border-box;
   flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
@@ -41,7 +42,7 @@ div.ヘア1 {
 div.ヘア2 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%; 
   box-sizing:border-box;
   flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -49,7 +50,7 @@ div.ヘア2 {
 div.ヘア3 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%; 
   box-sizing:border-box;
   flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -57,7 +58,7 @@ div.ヘア3 {
 div.ヘア4 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%; 
   box-sizing:border-box;
   flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -71,7 +72,8 @@ div.親1 {
   background-color:rgba(0,250,200,0.2);
   display: flex;
   flex-direction: column;
-  align-items: center;   
+  align-items: center;
+  justify-content: center;   
   width: 99.9%;
   height: 200vh; 
 }
@@ -82,7 +84,7 @@ div.親1 {
   display: flex;
   flex-wrap: wrap;  
   width: 90%;　
-  height: 70vh;
+  height: 85vh;
 } 
 
     div.子2 {
@@ -91,13 +93,13 @@ div.親1 {
   display: flex;
   flex-wrap: wrap;  
   width: 90%;
-  height: 70vh; 
+  height: 85vh; 
 } 
    
    div.ヘア1 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%; 
   box-sizing:border-box;
   flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
@@ -105,7 +107,7 @@ div.親1 {
 div.ヘア2 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%; 
   box-sizing:border-box;
   flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -113,7 +115,7 @@ div.ヘア2 {
 div.ヘア3 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%; 
   box-sizing:border-box;
   flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -121,7 +123,7 @@ div.ヘア3 {
 div.ヘア4 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 43%;
+  width: 43vw;
   height: 45%;  
   box-sizing:border-box;
   flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -134,7 +136,8 @@ div.ヘア4 {
   background-color:rgba(0,250,200,0.2);
   display: flex;
   flex-direction: column;
-  align-items: center;   
+  align-items: center;
+  justify-content: center;   
   width: 99.9%;
   height: 200vh;  
 }
@@ -145,7 +148,7 @@ div.ヘア4 {
   display: flex;
   flex-wrap: wrap;  
   width: 90%;
-  height: 70vh;
+  height: 85vh;
 }  
 
     div.子2 {
@@ -154,13 +157,13 @@ div.ヘア4 {
   display: flex;
   flex-wrap: wrap;  
   width: 90%;
-  height: 70vh; 
+  height: 85vh; 
 } 
    
 div.ヘア1 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 25%;
+  width: 25vw;
   height: 90%; 
   box-sizing:border-box;
   flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
@@ -168,7 +171,7 @@ div.ヘア1 {
 div.ヘア2 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 25%;
+  width: 25vw;
   height: 90%; 
   box-sizing:border-box;
   flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -176,7 +179,7 @@ div.ヘア2 {
 div.ヘア3 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 25%;
+  width: 25vw;
   height: 90%; 
   box-sizing:border-box;
   flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
@@ -184,7 +187,7 @@ div.ヘア3 {
 div.ヘア4 {
   border: 5px solid aqua;
   background-color:rgba(0,250,200,0.2);
-  width: 25%;
+  width: 25vw;
   height: 90%; 
   box-sizing:border-box;
   flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
