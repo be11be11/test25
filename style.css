@@ -6,7 +6,8 @@ div.親1 {
   border: 3px solid lime;
   background-color:rgba(0,250,200,0.2);
   display: flex;
-  flex-wrap: wrap;  
+  flex-direction: column;
+  align-items: center; 
   width: 99.9%;
   height: 200%;
 }
@@ -55,8 +56,9 @@ div.親1 {
   border: 5px solid lime;
   background-color:rgba(0,250,200,0.2);
   display: flex;
-  flex-wrap: wrap;  
-  width: 99.9%;　
+  flex-direction: column;
+  align-items: center;   
+  width: 99.9%;
   height: 200%; 
 }
 
@@ -102,7 +104,8 @@ div.ヘア4 img {
   border: 7.5px solid lime;
   background-color:rgba(0,250,200,0.2);
   display: flex;
-  flex-wrap: wrap;  
+  flex-direction: column;
+  align-items: center;   
   width: 99.9%;
   height: 200%;  
 }
