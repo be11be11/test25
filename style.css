@@ -37,7 +37,7 @@ div.ヘア1 {
   width: 43vw;
   height: 45%; 
   box-sizing:border-box;
-  flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
 }
 div.ヘア2 {
   border: 5px solid aqua;
@@ -45,7 +45,7 @@ div.ヘア2 {
   width: 43vw;
   height: 45%; 
   box-sizing:border-box;
-  flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
 }  
 div.ヘア3 {
   border: 5px solid aqua;
@@ -53,7 +53,7 @@ div.ヘア3 {
   width: 43vw;
   height: 45%; 
   box-sizing:border-box;
-  flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
  }
 div.ヘア4 {
   border: 5px solid aqua;
@@ -61,7 +61,7 @@ div.ヘア4 {
   width: 43vw;
   height: 45%; 
   box-sizing:border-box;
-  flex-basis: 30%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
 }
   
 }
@@ -102,7 +102,7 @@ div.親1 {
   width: 43vw;
   height: 45%; 
   box-sizing:border-box;
-  flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
 }
 div.ヘア2 {
   border: 5px solid aqua;
@@ -110,7 +110,7 @@ div.ヘア2 {
   width: 43vw;
   height: 45%; 
   box-sizing:border-box;
-  flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
 }  
 div.ヘア3 {
   border: 5px solid aqua;
@@ -118,7 +118,7 @@ div.ヘア3 {
   width: 43vw;
   height: 45%; 
   box-sizing:border-box;
-  flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
  }
 div.ヘア4 {
   border: 5px solid aqua;
@@ -126,7 +126,7 @@ div.ヘア4 {
   width: 43vw;
   height: 45%;  
   box-sizing:border-box;
-  flex-basis: 43%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 43vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
 }
   
 }  
@@ -166,7 +166,7 @@ div.ヘア1 {
   width: 25vw;
   height: 90%; 
   box-sizing:border-box;
-  flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
+  flex-basis: 25vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作  
 }
 div.ヘア2 {
   border: 5px solid aqua;
@@ -174,7 +174,7 @@ div.ヘア2 {
   width: 25vw;
   height: 90%; 
   box-sizing:border-box;
-  flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 25vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
 }  
 div.ヘア3 {
   border: 5px solid aqua;
@@ -182,7 +182,7 @@ div.ヘア3 {
   width: 25vw;
   height: 90%; 
   box-sizing:border-box;
-  flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 25vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
  }
 div.ヘア4 {
   border: 5px solid aqua;
@@ -190,7 +190,7 @@ div.ヘア4 {
   width: 25vw;
   height: 90%; 
   box-sizing:border-box;
-  flex-basis: 25%;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
+  flex-basis: 25vw;  //要素を並べて親を超えないまで、または2つ並べて親を超える場合は、flex-wrap無効、要素が3つ以上並べ親を超えるとflex-wrapが動作
 }
   
 }  
